@@ -1,0 +1,55 @@
+{
+	"projectPath": "/Users/patrick/Work/repos/fond_collection/mr_pinchers_dot_org/mr-pinchers-dot-org",
+	"projectInfo": {
+		"ProjectName": "mr-pinchers-dot-org",
+		"ProjectPath": "/Users/patrick/Work/repos/fond_collection/mr_pinchers_dot_org/mr-pinchers-dot-org",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react"
+	},
+	"packageJson": {
+		"name": "mr-pinchers-dot-org",
+		"version": "0.1.0",
+		"private": true,
+		"dependencies": {
+			"react": "^16.8.6",
+			"react-dom": "^16.8.6",
+			"react-scripts": "3.0.1"
+		},
+		"scripts": {
+			"start": "react-scripts start",
+			"build": "react-scripts build",
+			"test": "react-scripts test",
+			"eject": "react-scripts eject"
+		},
+		"eslintConfig": {
+			"extends": "react-app"
+		},
+		"browserslist": {
+			"production": [
+				">0.2%",
+				"not dead",
+				"not op_mini all"
+			],
+			"development": [
+				"last 1 chrome version",
+				"last 1 firefox version",
+				"last 1 safari version"
+			]
+		}
+	},
+	"framework": "react",
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
