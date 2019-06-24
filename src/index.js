@@ -1,6 +1,5 @@
 import React from 'react'
 import { render } from 'react-dom'
-import { BrowserRouter } from 'react-router-dom'
 import App from './components/App';
 import Amplify from "aws-amplify";
 import config from "./config";
@@ -21,7 +20,7 @@ Amplify.configure({
   API: {
     endpoints: [
       {
-        name: "notes",
+        name: "hello",
         endpoint: config.apiGateway.URL,
         region: config.apiGateway.REGION
       },
